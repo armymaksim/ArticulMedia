@@ -20,5 +20,6 @@
 
 # Запуск
      sudo docker-compose up -d
+     
 #Проверка 
     python3.6 ./check.py
