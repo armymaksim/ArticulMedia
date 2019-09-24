@@ -1,0 +1,1 @@
+redis = 'redis://:wqrejqwlnekfjewca@redis:6379/0'
